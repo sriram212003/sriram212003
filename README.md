@@ -1,6 +1,5 @@
 - 👋 Hi, I’m sriram
-- 👀 I’m interested in python
-- 🌱 I’m currently learning sql,aws
+
 
 
 <!---
